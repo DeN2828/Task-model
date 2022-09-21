@@ -11,3 +11,34 @@ body
 {
     background-image: url(/img/laptop.jpg);
 }
+
+.field-set
+{
+
+    position: absolute;
+    margin-top: 100px;
+
+}
+.field-log
+{
+    border: 3px solid transparent;
+    border-radius: 50px;
+    padding: 16px;
+    font-size: 20px;
+    background-color: rgba(157, 165, 176, 0.5);
+    padding-right: 190px
+}
+.text
+{
+    color: gray;
+    opacity: 70%;;
+}
+.field-enter
+{
+    border: 3px solid transparent;
+    border-radius: 50px;
+    padding: 13px;
+    font-size: 20px;
+    background-color: #1bd2c7;
+    text-align: center;
+}
